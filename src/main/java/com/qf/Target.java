@@ -5,4 +5,7 @@ package com.qf;
  * @Date 2019/10/27
  **/
 public class Target {
+    public static void main(String[] args) {
+
+    }
 }
